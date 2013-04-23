@@ -3,9 +3,6 @@ package com.btl.service;
 
 // initial version
 
-// 2nd version
-
-// 3rd version
 
 
 public class TestService {
